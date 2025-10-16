@@ -1,0 +1,11 @@
+#pip install
+flask
+flask-cors
+
+# to run
+1. open terminal                    (now you are at 'root folder')
+2. type 'cd backend' and enter      (now you are at 'project\backend')
+3. type 'python app.py' and enter
+4. now terminal should give you http server (http://127.0.0.1:5000), copy it then paste it on browser
+
+# if you make any changes, don't forget to save it before refreshing the browser
